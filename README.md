@@ -2,7 +2,7 @@
 
 Bonus Bunny Affiliate Site
 
-The content of this site is managed by NetlifyCMS. Visit https://bonus-bunny.netlify.com/admin/#/collections/config/admin to manage site content.
+The content of this site is managed by NetlifyCMS. Visit https://bonus-bunny.netlify.com/admin/ to manage site content.
 
 # Running Your Site Locally
 
