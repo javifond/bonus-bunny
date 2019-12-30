@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "1",
+      "title": "Home",
+      "url": "/",
+      "weight": 1
+    }
+  ]
+}
