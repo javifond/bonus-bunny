@@ -5,7 +5,7 @@ img_path: ''
 menus:
   main:
     title: About Us
-    weight: -1
+    weight: 3
 template: page
 ---
 **This is bonus bunny - about us - content**
