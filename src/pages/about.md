@@ -4,8 +4,8 @@ subtitle: About Bonus Bunny - Affiliates
 img_path: ''
 menus:
   main:
-    title: ''
-    weight: ''
+    title: About Us
+    weight: 0
 template: page
 ---
 **This is bonus bunny - about us - content**
